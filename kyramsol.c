@@ -29,6 +29,7 @@ void main(){
 		i++;}
 		
 		printf("S=%i",S);
+	//edited from another comp
 }
 
 
