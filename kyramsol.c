@@ -28,7 +28,8 @@ void main(){
 		printf(" %i \n",array1[i]);
 		i++;}
 		
-		printf("S=%i",S);}
+		printf("S=%i",S);
+}
 
 
 
