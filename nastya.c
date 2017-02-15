@@ -26,6 +26,5 @@ void main(){
 	
 	printf("\n\n%i ", sum);
 		}
-
-vitalka pomatukavsa
+sfsdfdsfsdfdssdfdsfdsf
 
